@@ -1,4 +1,4 @@
-# SQL_Chinook_Music_Store_Project
+# SQL Chinook Music Store Project
 
 ## Overview
 MySQL project that answer real business question and scenarios of Chinook, a digital media store.

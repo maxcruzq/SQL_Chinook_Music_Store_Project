@@ -4,7 +4,8 @@
 MySQL project that answer real business question and scenarios of Chinook, a digital media store.
 
 ## Schema
-There is a .png file available with the schema.
+
+![Chinook_Schema](https://github.com/maxcruzq/SQL_Chinook_Music_Store_Project/assets/132103792/a0ad73ee-eb6d-4a1d-93d3-644980b92d4a)
 
 ## Real Business Questions
 1. Which countries have the most Invoices?
